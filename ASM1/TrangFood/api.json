@@ -1,0 +1,453 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "nike"
+    },
+    {
+      "id": 2,
+      "name": "adidas"
+    },
+    {
+      "id": 3,
+      "name": "puma"
+    },
+    {
+      "id": 4,
+      "name": "reebok"
+    },
+    {
+      "id": 5,
+      "name": "converse"
+    },
+    {
+      "id": 6,
+      "name": "vans"
+    },
+    {
+      "id": 7,
+      "name": "asics"
+    },
+    {
+      "id": 8,
+      "name": "fila"
+    },
+    {
+      "id": 9,
+      "name": "skechers"
+    },
+    {
+      "id": 10,
+      "name": "jordan"
+    },
+    {
+      "id": 11,
+      "name": "salomon"
+    },
+    {
+      "id": 12,
+      "name": "gucci"
+    },
+    {
+      "id": 13,
+      "name": "brooks"
+    },
+    {
+      "id": 14,
+      "name": "dior"
+    },
+    {
+      "id": 15,
+      "name": "lacoste"
+    },
+    {
+      "id": 16,
+      "name": "merrell"
+    },
+    {
+      "id": 17,
+      "name": "chanel"
+    },
+    {
+      "id": 18,
+      "name": "palladium"
+    },
+    {
+      "id": 19,
+      "name": "kappa"
+    },
+    {
+      "id": 20,
+      "name": "undercover"
+    },
+    {
+      "id": 21,
+      "name": "clarks"
+    },
+    {
+      "id": 22,
+      "name": "birkenstock"
+    },
+    {
+      "id": 23,
+      "name": "vivobarefoot"
+    },
+    {
+      "id": 24,
+      "name": "ecco"
+    },
+    {
+      "id": 25,
+      "name": "keen"
+    },
+    {
+      "id": 26,
+      "name": "altra"
+    },
+    {
+      "id": 27,
+      "name": "mizuno"
+    },
+    {
+      "id": 29,
+      "name": "merrell"
+    },
+    {
+      "id": 30,
+      "name": "teva"
+    },
+    {
+      "id": 31,
+      "name": "hummel"
+    },
+    {
+      "id": 32,
+      "name": "saucony"
+    },
+    {
+      "id": 33,
+      "name": "mcm"
+    },
+    {
+      "id": 34,
+      "name": "kswiss"
+    },
+    {
+      "id": 35,
+      "name": "versace"
+    }
+  ], 
+  "products":[
+    {
+      "id": 1,
+      "name": "nike",
+      "cate_id": 1,
+      "price": 100000,
+      "detail": "Giày Nike, những sản phẩm xuất sắc của thương hiệu đình đám này, không chỉ đơn giản là đôi giày thể thao mà còn là biểu tượng của phong cách và hiệu suất.",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fdeestore.vn%2Fproducts%2Fgiay-nike-air-force-1-low-le-gs-all-white-dh2920-111&psig=AOvVaw1wcpYuEoARz6a7DrFPiECn&ust=1705335867856000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNiG1qal3YMDFQAAAAAdAAAAABAg"
+    },
+    {
+      "id": 2,
+      "name": "adidas",
+      "cate_id": 2,
+      "price": 150000,
+      "detail": "Với sự hỗ trợ của những ngôi sao thể thao và nghệ sĩ nổi tiếng, Adidas không chỉ là một thương hiệu giày, mà là biểu tượng văn hóa, gắn kết với người hâm mộ thể thao và những người đam mê thời trang trên khắp thế giới.",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.adidas.com.vn%2Fvi%2Fgiay-grand-court-cloudfoam-lifestyle-court-comfort%2FGW9214.html&psig=AOvVaw252wC1DBlRGAL7U68YS1Jz&ust=1705335997874000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLiir-Sl3YMDFQAAAAAdAAAAABAD"
+    },
+    {
+      "id": 3,
+      "name": "puma",
+      "cate_id": 3,
+      "price": 200000,
+      "detail": "Sự nổi tiếng của Puma không chỉ đến từ việc hợp tác với các ngôi sao thể thao hàng đầu và những đối tác hàng đầu trong ngành công nghiệp mà còn từ việc giữ vững định hình riêng về thời trang và phong cách. ",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fjapanorderstore.com%2Fpuma-caven-sneakers-380810-02-white-black&psig=AOvVaw0-XeGOj0ry6LEwE6OCfq4A&ust=1705336079984000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDS16mm3YMDFQAAAAAdAAAAABAD"
+    },
+    {
+      "id": 4,
+      "name": "reebok",
+      "cate_id": 4,
+      "price": 250000,
+      "detail": "Ngoài ra, Reebok cũng đặt nặng vấn đề bền vững và an toàn trong quá trình sản xuất, chứng tỏ tầm nhìn của họ về một thế giới thể thao và thời trang có trách nhiệm và tích cực.  ",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Freebok.com.vn%2Fproducts%2Flt-court-gy9706&psig=AOvVaw0kG6-0Ov64OOMQSrUPUNFh&ust=1705336229906000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCDpuqm3YMDFQAAAAAdAAAAABAD"
+    },
+    {
+      "id": 5,
+      "name": "converse",
+      "cate_id": 5,
+      "price": 300000,
+      "detail": "Thiết kế cao cổ và hình sao năm cạnh là những đặc điểm nhận dạng rõ ràng của Converse. Được làm từ chất liệu canvas chất lượng, giày Converse mang lại sự thoải mái và linh hoạt cho người mang.  ",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wear.com.vn%2Fgiay-converse-run-star-hike-twisted-classic-foundational-canvas-166800v&psig=AOvVaw2v2ZkhhnFNlG3CqhNTTgaG&ust=1705336344807000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKiT7Jmn3YMDFQAAAAAdAAAAABAD"
+    },
+    {
+      "id": 6,
+      "name": "vans",
+      "cate_id": 6,
+      "price": 350000,
+      "detail": " Được ra đời từ những năm 1960, Vans nhanh chóng trở thành một thương hiệu giày hàng đầu được yêu thích bởi cả những người yêu thể thao và đam mê thời trang đường phố.  ",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiaythainguyen.com%2Fsan-pham%2Fgiay-vans-old-skool-black-white%2F&psig=AOvVaw0pNIrQKqy8apAs_xIm3Ca6&ust=1705336475662000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCcnNGn3YMDFQAAAAAdAAAAABAD"
+    },
+    {
+      "id": 7,
+      "name": "asics",
+      "cate_id": 7,
+      "price": 400000,
+      "detail": "Sự nhấn mạnh vào sự thoải mái và hiệu suất cùng với kiểu dáng phong cách làm cho giày Asics trở thành lựa chọn ưa chuộng không chỉ trong cộng đồng thể thao mà còn trong thế giới thời trang đương đại.  ",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiaydino.com%2Fgiay-asics-court-mz-cream-white-grey-asics-xam-kem%2F&psig=AOvVaw2wb0QJhdmgpbVa-XG7-7hA&ust=1705336581551000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNibtfyn3YMDFQAAAAAdAAAAABAI"
+    },
+    {
+      "id": 8,
+      "name": "fila",
+      "cate_id": 8,
+      "price": 450000,
+      "detail": "Điểm đặc biệt của giày Fila thường là thiết kế phối màu và logo đặc trưng. Các dòng sản phẩm như Fila Disruptor, Fila Ray, hoặc Fila Venom thường mang lại không chỉ vẻ ngoại hình mạnh mẽ mà còn sự thoải mái và linh hoạt khi sử dụng.  ",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fvuahanghieu.com%2Fgiay-the-thao-fila-beacon-1rm02137e9267-mau-trang-kem-size-35-ph084440&psig=AOvVaw01bNzJXm3MhWPVNtiStCd2&ust=1705336652948000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDLsp2o3YMDFQAAAAAdAAAAABAD"
+    },
+    {
+      "id": 9,
+      "name": "skechers",
+      "cate_id": 9,
+      "price": 500000,
+      "detail": "Các dòng sản phẩm như Skechers Memory Foam, Skechers Go Walk, hoặc Skechers D'Lites thường được biết đến với đệm êm ái và độ bền cao, tạo nên trải nghiệm thoải mái cho người mang. ",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.skechersvn.vn%2Fproducts%2F149057-ltpk&psig=AOvVaw0-lS7lcvY8fXfn_ZFAQday&ust=1705336727519000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNC18pWp3YMDFQAAAAAdAAAAABAD"
+    },
+    {
+      "id": 10,
+      "name": "jordan",
+      "cate_id": 10,
+      "price": 550000,
+      "detail": "Giày Jordan không chỉ làm hài lòng cộng đồng người yêu thể thao mà còn trở thành một biểu tượng thời trang đường phố. Việc hợp tác với các nghệ sĩ và những cái tên nổi tiếng khác nhau giúp giày Jordan luôn làm mới và thay đổi theo xu hướng. ",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcitishop.vn%2Fgiay-nike-jordan-1-low-shadow-brown-dc0774-200&psig=AOvVaw32r4YImyLnNRY_6CdZ5AoK&ust=1705336999668000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDFn8Kp3YMDFQAAAAAdAAAAABAD"
+    },
+    {
+      "id": 11,
+      "name": "salomon",
+      "cate_id": 11,
+      "price": 600000,
+      "detail": "Giày Salomon, với sự tập trung vào chất lượng và hiệu suất trong điều kiện ngoài trời, là biểu tượng của sự đa dụng và thoải mái trong thế giới thể thao và hoạt động ngoại ô. ",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.giayleonui.net%2Fsan-pham%2Fgiay-nu-chay-trail-salomon-speed-cross-3%2F&psig=AOvVaw2_iM126G-rPU4m7taFMShO&ust=1705337075814000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDgsOqp3YMDFQAAAAAdAAAAABAD"
+    },
+    {
+      "id": 12,
+      "name": "gucci",
+      "cate_id": 12,
+      "price": 650000,
+      "detail": "Giày Gucci, sản phẩm của nhãn hiệu thời trang hàng đầu từ Ý, là biểu tượng của sự sang trọng, đẳng cấp và phong cách thời trang độc đáo. Gucci, với hơn 100 năm lịch sử, đã xây dựng một danh tiếng mạnh mẽ trong làng thời trang và phụ kiện xa xỉ. ",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fshopgiayreplica.com%2Fgiay-gucci-son-tung-gg-screener-like-auth%2F&psig=AOvVaw0y7n7EWJfJfcVTdNUDnHGo&ust=1705337150727000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMioq4uq3YMDFQAAAAAdAAAAABAI"
+    },
+    {
+      "id": 13,
+      "name": "brooks",
+      "cate_id": 13,
+      "price": 700000,
+      "detail": "Việc này giúp giày Brooks không chỉ làm hài lòng những vận động viên chuyên nghiệp mà còn là lựa chọn phổ biến cho những người yêu thể thao và chạy bộ hàng ngày. ",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Freviewgiay.com%2Fgiay-chay-bo-brooks%2F&psig=AOvVaw0rsV1cSKPfSeWXg3ZK3wmx&ust=1705337209576000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOjgoqeq3YMDFQAAAAAdAAAAABAI"
+    },
+    {
+      "id": 14,
+      "name": "dior",
+      "cate_id": 14,
+      "price": 750000,
+      "detail": "Sự tinh tế trong thiết kế, cùng với sự chú trọng đến chi tiết và chất lượng, giúp giày Dior trở thành biểu tượng thời trang và được người yêu thời trang trên khắp thế giới săn đón. ",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftungluxury.com%2Fgiay-dior-b27-low-top-gray-white-like-auth%2F&psig=AOvVaw3joAq1z6J38_XPawDuMapz&ust=1705337267265000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJiP58Gq3YMDFQAAAAAdAAAAABAD"
+    },
+    {
+      "id": 15,
+      "name": "lacoste",
+      "cate_id": 15,
+      "price": 800000,
+      "detail": "Sự tinh tế trong thiết kế, cùng với sự chú trọng đến chi tiết và chất lượng, giúp giày Dior trở thành biểu tượng thời trang và được người yêu thời trang trên khắp thế giới săn đón. ",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftungluxury.com%2Fgiay-dior-b27-low-top-gray-white-like-auth%2F&psig=AOvVaw3joAq1z6J38_XPawDuMapz&ust=1705337267265000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJiP58Gq3YMDFQAAAAAdAAAAABAD"
+    },
+    {
+      "id": 16,
+      "name": "merrell",
+      "cate_id": 16,
+      "price": 850000,
+      "detail": "Với sự kết hợp giữa chức năng và thoải mái, giày Merrell thường là lựa chọn phổ biến cho những người muốn khám phá thế giới ngoại ô mà vẫn giữ được phong cách và thoải mái.  ",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fumove.com.vn%2Fgiay-merrell-j21418-pd2111.html&psig=AOvVaw02xKDy06i64YZyc9hGsfAm&ust=1705337357450000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJiY4Oyq3YMDFQAAAAAdAAAAABAD"
+    },
+    {
+      "id": 17,
+      "name": "chanel",
+      "cate_id": 17,
+      "price": 900000,
+      "detail": "Giày Chanel không chỉ là sản phẩm thời trang mà còn là biểu tượng của sự sang trọng và lối sống đẳng cấp. Sự kết hợp giữa chất lượng, sáng tạo và tinh tế trong thiết kế làm cho giày Chanel trở thành một trong những biểu tượng thời trang hàng đầu trên thế giới.  ",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcentimet.vn%2Fsan-pham%2Fgiay-chanel-new-sneaker%2F&psig=AOvVaw2MAllZ9OQxqspKxgJ9h5Jv&ust=1705337444664000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKiCm5yr3YMDFQAAAAAdAAAAABAD"
+    }
+  ],
+  "orders":[
+    {
+      "id": 1,
+      "customer_name": "phuongtrang",
+      "customer_address": "Cần Thơ",
+      "customer_email": "trang12@gmail.com",
+      "customer_phone_number": "0312456789",
+      "customer_date": "14/1/2024",
+      "status": "Tiến hàng giao hàng"
+    },
+    {
+      "id": 2,
+      "customer_name": "trang",
+      "customer_address": "Vĩnh Long",
+      "customer_email": "trang123@gmail.com",
+      "customer_phone_number": "0312456788",
+      "customer_date": "13/1/2024",
+      "status": "Chuẩn bị giao hàng"
+    },
+    {
+      "id": 3,
+      "customer_name": "trang",
+      "customer_address": "An Giang",
+      "customer_email": "trang134@gmail.com",
+      "customer_phone_number": "0312456787",
+      "customer_date": "12/1/2024",
+      "status": "Đang giao hàng"
+    },
+    {
+      "id": 4,
+      "customer_name": "phuongtrang",
+      "customer_address": "Tiền Giang",
+      "customer_email": "trang145@gmail.com",
+      "customer_phone_number": "0312456786",
+      "customer_date": "11/1/2024",
+      "status": "Đang giao hàng"
+    },
+    {
+      "id": 5,
+      "customer_name": "trang",
+      "customer_address": "Hậu Giang",
+      "customer_email": "trang156@gmail.com",
+      "customer_phone_number": "0312456785",
+      "customer_date": "10/1/2024",
+      "status": "Tiến hàng giao hàng"
+    },
+    {
+      "id": 6,
+      "customer_name": "phuongtrang",
+      "customer_address": "Sóc Trăng",
+      "customer_email": "trang167@gmail.com",
+      "customer_phone_number": "0312456784",
+      "customer_date": "9/1/2024",
+      "status": "Tiến hàng giao hàng"
+    },
+    {
+      "id": 7,
+      "customer_name": "phuongtrang",
+      "customer_address": "Cà Mau",
+      "customer_email": "trang178@gmail.com",
+      "customer_phone_number": "0312456783",
+      "customer_date": "10/1/2024",
+      "status": "Chuẩn bị giao hàng"
+    },
+    {
+      "id": 8,
+      "customer_name": "phuongtrang",
+      "customer_address": "Long An",
+      "customer_email": "phuongtrang178@gmail.com",
+      "customer_phone_number": "0312456782",
+      "customer_date": "11/1/2024",
+      "status": "Đang giao hàng"
+    },
+    {
+      "id": 9,
+      "customer_name": "trang",
+      "customer_address": "Trà Vinh",
+      "customer_email": "trang178@gmail.com",
+      "customer_phone_number": "0312456781",
+      "customer_date": "12/1/2024",
+      "status": "Tiến hàng giao hàng"
+    }
+  ],
+  "order_details":[
+    {
+      "order_id": 1,
+      "product_id": 1,
+      "quantity": 10,
+      "unit_price": 1000000
+    },
+    {
+      "order_id": 2,
+      "product_id": 2,
+      "quantity": 10,
+      "unit_price": 1500000
+    },
+    {
+      "order_id": 3,
+      "product_id": 3,
+      "quantity": 10,
+      "unit_price": 2000000
+    },
+    {
+      "order_id": 4,
+      "product_id": 4,
+      "quantity": 10,
+      "unit_price": 2500000
+    },
+    {
+      "order_id": 5,
+      "product_id": 5,
+      "quantity": 10,
+      "unit_price": 3000000
+    },
+    {
+      "order_id": 6,
+      "product_id": 6,
+      "quantity": 10,
+      "unit_price": 3500000
+    },
+    {
+      "order_id": 7,
+      "product_id": 7,
+      "quantity": 10,
+      "unit_price": 4000000
+    },
+    {
+      "order_id": 8,
+      "product_id": 8,
+      "quantity": 10,
+      "unit_price": 4500000
+    },
+    {
+      "order_id": 9,
+      "product_id": 9,
+      "quantity": 10,
+      "unit_price": 5000000
+    },
+    {
+      "order_id": 10,
+      "product_id": 10,
+      "quantity": 10,
+      "unit_price": 5500000
+    },
+    {
+      "order_id": 11,
+      "product_id": 11,
+      "quantity": 10,
+      "unit_price": 6000000
+    },
+    {
+      "order_id": 12,
+      "product_id": 12,
+      "quantity": 10,
+      "unit_price": 6500000
+    },
+    {
+      "order_id": 13,
+      "product_id": 13,
+      "quantity": 10,
+      "unit_price": 7000000
+    },
+    {
+      "order_id": 14,
+      "product_id": 14,
+      "quantity": 10,
+      "unit_price": 7500000
+    },
+    {
+      "order_id": 15,
+      "product_id": 15,
+      "quantity": 10,
+      "unit_price": 8000000
+    }
+  ]
+}
