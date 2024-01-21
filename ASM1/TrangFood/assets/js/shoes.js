@@ -1,3 +1,5 @@
+/// ASM 1
+// Hiển thị sản phẩm
 function wrapProduct() {
   const url = "http://localhost:3000/products";
   fetch(url)
@@ -40,6 +42,7 @@ function wrapProduct() {
 }
 wrapProduct();
 
+//Hiển thị danh mục
 function featureProduct() {
   const url = "http://localhost:3000/categories";
   fetch(url)
@@ -68,3 +71,45 @@ function featureProduct() {
     });
 }
 featureProduct();
+
+// function cartProduct() {
+//   const url = "http://localhost:3000/order_details";
+//   fetch(url)
+//     .then((cart) => cart.json())
+//     .then((data) => {
+//       const cartProduct = document.getElementById("product__cart");
+//       let cartHTML = `<table class="table table-bordered">
+//     <thead>
+//         <tr>
+//             <th>STT</th>
+//             <th>Ảnh đại diện</th>
+//             <th>Tên sản phẩm</th>
+//             <th>Số lượng</th>
+//             <th>Đơn giá</th>
+//             <th>Thành tiền</th>
+//             <th>Hành động</th>
+//         </tr>
+//     </thead>
+//     <tbody id="datarow">`;
+//     data.forEach(cart => {
+//       cartHTML += `<tr>
+//       <td>1</td>
+//       <td>
+//           <img src="${cart.image}" class="hinhdaidien">
+//       </td>
+//       <td>Apple Ipad 4 Wifi 16GB</td>
+//       <td class="text-right">2</td>
+//       <td class="text-right">11,800,000.00</td>
+//       <td class="text-right">23,600,000</td>
+//       <td> -->
+//           <!-- <a id="delete_1" data-sp-ma="2" class="btn btn-danger btn-delete-sanpham">
+//               <i class="fa fa-trash" aria-hidden="true"></i> Xóa
+//           </a>
+//       </td>
+//   </tr>`
+//     });
+//     cartHTML += `</tbody>
+//     </table>`;
+//     cartProduct.innerHTML = cartHTML;
+//     });
+// }
