@@ -42,13 +42,13 @@ function generateTable(headers, data){
 let list = [
     {
         id: 1,
-        name: 'Kha',
+        name: 'PhuongTrang',
         avata: "https://th.bing.com/th/id/OIP.9OFvFr0BYWWV6wKtS8ze1AHaHa?rs=1&pid=ImgDetMain",
         createAt: "2024/03/01"
     },
     {
         id: 2,
-        name: 'Kha nè',
+        name: 'Trang',
         avata: "https://th.bing.com/th/id/OIP.9OFvFr0BYWWV6wKtS8ze1AHaHa?rs=1&pid=ImgDetMain",
         createAt: "2024/03/01"
     },
